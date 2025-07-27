@@ -13,3 +13,5 @@ a steno40% keyboard
   | Item | Price  | Notes |
   |------|--------|-------|
   | PCB  | $83.78 |from jlcpcb    |
+  |Keycaps|$9.90 |https://shorturl.at/fVK32|
+  |Rubber feet| $3.84 | https://shorturl.at/bqHlW|
