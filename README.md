@@ -10,9 +10,10 @@ a steno40% keyboard
 
 ## BOM
 
-  | Item | Price  | Notes |
-  |------|--------|-------|
-  | PCB  | $83.78 |from jlcpcb    |
-  |Keycaps|$9.90 |https://shorturl.at/fVK32|
-  |Rubber feet| $3.84 | https://shorturl.at/bqHlW|
-  |Switches| $32.72| https://deltakeyco.com/|
+| Item         | Price   | Notes                          |
+|--------------|---------|--------------------------------|
+| PCB          | $83.78  | from jlcpcb                    |
+| Keycaps      | $9.90   | https://shorturl.at/fVK32      |
+| Rubber feet  | $3.84   | https://shorturl.at/bqHlW      |
+| Switches     | $32.72  | https://deltakeyco.com/        |
+| **Total**    | **$130.24** |                            |
