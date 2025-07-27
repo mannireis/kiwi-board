@@ -6,4 +6,4 @@ a steno40% keyboard
 
   | Item | Price  | Notes |
   |------|--------|-------|
-  | PCB  | $83.78 |       |
+  | PCB  | $83.78 |from jlcpcb    |
