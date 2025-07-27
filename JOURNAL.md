@@ -35,3 +35,12 @@ created_at: "2025-07-22"
 
   <img width="1916" height="1100" alt="kbkey" src="https://github.com/user-attachments/assets/857b4444-1be0-49bc-9b43-69fed2567859" />
   <img width="2160" height="1100" alt="b4e9ba37-d7e5-4096-9b14-b28c0c6704ea" src="https://github.com/user-attachments/assets/0adbfe59-6658-45a5-b97e-50094731140b" />
+
+## 27 of July -- 3h 
+
+  I fixed the usb since i was using a usb c plug instead of a receptable and also added some header pins for debugging!
+
+  Fixed pcb:
+  <img width="564" height="978" alt="screenshot_2025-07-27_17:54:30" src="https://github.com/user-attachments/assets/ad5fe20a-5006-4cdb-b7a9-9a500b246271" />
+
+  Also made a bare working firmware!!!
