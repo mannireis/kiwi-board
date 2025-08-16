@@ -1,5 +1,8 @@
 # Kiwi Board
 
+<img width="1216" height="679" alt="Screenshot 2025-08-16 at 12-41-57 471098307-857b4444-1be0-49bc-9b43-69fed2567859 png (PNG Image 1916 × 1100 pixels)" src="https://github.com/user-attachments/assets/ec3e78be-8b4e-432c-91e6-80fe78da471a" />
+
+
 The Kiwi Board is a 42-key split keyboard designed for stenographic input. It features a 3×6 column-staggered layout with 3 thumb keys per side.  
 The design is based on the [Polyglot keyboard](https://stenokeyboards.com/products/polyglot-keyboard) and includes an integrated RP2040 microcontroller.
 
