@@ -45,6 +45,7 @@ This project started after I discovered steno and wanted to build a keyboard tai
 | Keycaps      | $9.90   | [AliExpress link](https://shorturl.at/fVK32) |
 | Rubber Feet  | $3.84   | [AliExpress link](https://shorturl.at/bqHlW) |
 | Switches     | $32.72  | [Deltakey Co.](https://deltakeyco.com/)     |
+| diodes    |  |           i own them           |
 | **Total**    | **$130.24** |                              |
 
 ---
